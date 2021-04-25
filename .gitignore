@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Visual Studio Code Files
+.vscode/
+
+# Flask Python Files
+**/__pycache__
+
+# macOS Files
+.DS_Store
